@@ -52,6 +52,7 @@ function _dist() {
         './node_modules/es5-shim/es5-shim.js',
         './lib/sanitize-html.min.js',
         './src/main/javascript/**/*.js',
+        './bower_components/javascript-auto-complete/auto-complete.js',
         './node_modules/swagger-client/browser/swagger-client.js'
       ]),
       gulp
